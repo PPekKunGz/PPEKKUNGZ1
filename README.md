@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PPekKunGzDev</h1>
-<h3 align="center">A Font-End Developer from Thailand!</h3>
+<h3 align="center">A Front-End Developer from Thailand!</h3>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 [![wakatime](https://wakatime.com/badge/user/18d6afc2-0418-4101-8b22-0a0d3177adb3.svg)](https://wakatime.com/@18d6afc2-0418-4101-8b22-0a0d3177adb3)
