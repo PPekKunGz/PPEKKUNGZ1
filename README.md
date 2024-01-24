@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning [**Java Modder/Plugin**](https://wakatime.com/@PPekKunGz) : **DimensionStudio**
 
-- 👨‍💻 All of my projects are available at [https://ppekkungz.online/](https://ppekkungz.in.th/) : **@PPekKunGzDev**
+- 👨‍💻 All of my projects are available at [https://ppekkungz.in.th/](https://ppekkungz.in.th/) : **@PPekKunGzDev**
 
 - 📫 I'm use this language **ReactJS, NextJS, HTML-SASS**
 
