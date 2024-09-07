@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ayariko Bot Project](https://top.gg/bot/691256244194770944) : **Team Development**
 
-- 🌱 I’m currently working **Systems for** [**FiawKunG Channel**](https://www.youtube.com/FiawKunGChannel), [**FriendsCraft Official**](https://youtube.com/FriendsCraftOfficial) : **DimensionStudio**
+- 🌱 I’m currently working **Systems for** [**APLACES Studio**](https://www.youtube.com/@APLACEStudio), [**FriendsCraft Official**](https://youtube.com/FriendsCraftOfficial) : **DimensionStudio**
 
 - 🌱 I’m currently learning [**Java Modder/Plugin**](https://wakatime.com/@PPekKunGz) : **DimensionStudio**
 
