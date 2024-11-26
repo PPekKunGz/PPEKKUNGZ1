@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ppekkungz&theme=outrun&show_icons=true&locale=en" alt="ppekkungz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppekkungz&theme=outrun" alt="ppekkungz" /></p>
+[![PPekKunGz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PPekKunGz&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/PPekKunGz)
